@@ -15,4 +15,11 @@ class Persona{
 //     console.log("La nueva persona es: " + persona);
     
 // }
+// Tipeado explicito
+
+let edad :number = 38;
+let nombre: string = "Facundo";
+let vivo: boolean = true;
+
+
 
